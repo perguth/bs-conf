@@ -1,6 +1,6 @@
 {
   "name": "bs-conf",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A wrapper of `browser-sync` that reads the configuration from `bs-conf.js`.",
   "main": "index.js",
   "bin": {
