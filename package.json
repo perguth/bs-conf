@@ -1,0 +1,32 @@
+{
+  "name": "bs-conf",
+  "version": "0.1.0",
+  "description": "A wrapper of `browser-sync` that reads the configuration from `bs-conf.js`.",
+  "main": "index.js",
+  "bin": {
+    "bs-conf": "bin/bs-conf.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser-sync",
+    "browser",
+    "sync",
+    "live",
+    "reload",
+    "sync"
+  ],
+  "author": "Per Guth <mail@perguth.de> (http://perguth.de)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pguth/bs-conf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pguth/bs-conf/issues"
+  },
+  "dependencies": {
+    "browser-sync": "^2.8.2"
+  }
+}
