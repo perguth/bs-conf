@@ -1,5 +1,7 @@
 # bs-conf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pguth/bs-conf.svg)](https://greenkeeper.io/)
+
 *`browser-sync` does not expose all its options as command line arguments. `bs-conf` makes it possible to execute `browser-sync` from your `package.json` script section and still use all options by wrapping `browser-sync` and feeding it with a local configuration file.*
 
 ## Install
